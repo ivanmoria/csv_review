@@ -15,6 +15,15 @@ Este projeto é um visualizador de planilhas do Google Sheets exportadas em CSV,
 
 ---
 
+
+## Captura de Tela
+
+Abaixo está uma visualização da interface do aplicativo:
+
+![Visualização da interface](screenshot.png)
+
+---
+
 ## Requisitos
 
 - Python 3.x
